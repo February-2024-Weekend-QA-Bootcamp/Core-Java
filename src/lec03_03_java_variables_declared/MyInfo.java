@@ -14,11 +14,12 @@ public class MyInfo {
 
 	// Constructor declared
 	public MyInfo() {
-		System.out.println("\tThis is all about me--");
+		System.out.println("\tThis is all about me--"); // "tab" is used here
 	}
 
 	// method implemented
 	public void myInfo() {
+		// new line is created by \n below
 		System.out.println("My Name is: " + myName + "\nMy Age: " + myAge + "\nMy Apartment Rent: " + myApartmentRent
 				+ "\nMy Yearly Salary: " + myYearlySalary + "\nMy Bank Balance: " + myBankBalance + "\nMy Gender: "
 				+ myGender + "\nMy height: " + myHeight + "\nMy Grade: " + myGrade + "\nUS citizen? : " + usCitizen);
