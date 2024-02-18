@@ -1,5 +1,10 @@
 package lec03_02_java_variables_initialized;
 
+// how to close the classes already opened? What kind of options are present?
+// Do a Right click --> one of the class from the header and choose from below
+// close, close all, close others, close to left, close to right, detach etc
+// you choose what ever needed
+
 public class String_concatenation {
 
 	public static void main(String[] args) {
