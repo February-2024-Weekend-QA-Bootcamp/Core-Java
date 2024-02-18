@@ -15,7 +15,7 @@ public class MyInfoTest {
 		tofael.usCitizen = true;
 		tofael.myInfo(); // method initialized
 		
-		System.out.println("---------------------------------");
+		System.out.println("---------------------------------\n");
 		MyInfo amber = new MyInfo();
 		amber.myName = "Amber Douglas";
 		amber.myAge = 34;
@@ -28,7 +28,7 @@ public class MyInfoTest {
 		amber.usCitizen = false;
 		amber.myInfo(); 
 		
-		System.out.println("---------------------------------");
+		System.out.println("---------------------------------\n");
 		MyInfo aroah = new MyInfo();
 		aroah.myName = "Aroah";
 		aroah.myAge = 23;
