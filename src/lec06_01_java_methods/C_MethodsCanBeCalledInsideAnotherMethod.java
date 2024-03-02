@@ -1,6 +1,6 @@
 package lec06_01_java_methods;
 
-public class OneMethodCalledInsideAnotherMethod {
+public class C_MethodsCanBeCalledInsideAnotherMethod {
 	// Global variable or class variable
 	public int a = 13;
 	public int b = 2;

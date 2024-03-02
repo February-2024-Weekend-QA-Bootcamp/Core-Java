@@ -3,30 +3,30 @@ package lec06_01_java_methods;
 public class TestMethod {
 
 	public static void main(String[] args) {
-		LearningVoidTypeMethod lvm = new LearningVoidTypeMethod();
+		A_VoidTypeMethod lvm = new A_VoidTypeMethod();
 		lvm.addition();
 		
 		System.out.println("-----------------------------------------------------");
-		LearningReturnTypeMethod lrm = new LearningReturnTypeMethod();
+		B_ReturnTypeMethod lrm = new B_ReturnTypeMethod();
 		lrm.addition();
 		lrm.subtraction();
 		lrm.myName();
 		
 		System.out.println("-----------------------------------------------------");
-		OneMethodCalledInsideAnotherMethod omc = new OneMethodCalledInsideAnotherMethod();
+		C_MethodsCanBeCalledInsideAnotherMethod omc = new C_MethodsCanBeCalledInsideAnotherMethod();
 		omc.subtraction();
 		
 		System.out.println("-----------------------------------------------------");
-		MethodsCanBeCalledInsideConstructor mcc = new MethodsCanBeCalledInsideConstructor();
+		D_MethodsCanBeCalledInsideConstructor mcc = new D_MethodsCanBeCalledInsideConstructor();
 		
 		System.out.println("-----------------------------------------------------");
-		LearningStaticandFinalTypeMethod lsf = new LearningStaticandFinalTypeMethod();
+		E_LearningStaticandFinalTypeMethod lsf = new E_LearningStaticandFinalTypeMethod();
 		// lsf.addition(); // static methods are called by the class itself, no need of object to call a static method
-		LearningStaticandFinalTypeMethod.addition();
+		E_LearningStaticandFinalTypeMethod.addition();
 		lsf.subtraction(); // final type method can't be changed	
 		
 		System.out.println("-----------------------------------------------------");
-		LearningParameterizedMethod lpm = new LearningParameterizedMethod();
+		F_LearningParameterizedMethod lpm = new F_LearningParameterizedMethod();
 		lpm.addition(324, 120);
 		lpm.addition(70, 60);
 		

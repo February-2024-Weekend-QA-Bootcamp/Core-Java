@@ -1,6 +1,6 @@
 package lec06_01_java_methods;
 
-public class LearningParameterizedMethod {
+public class F_LearningParameterizedMethod {
 	
 	// void type method
 	// Advantage of parameterized methods is, it can be reused by changing the arguments

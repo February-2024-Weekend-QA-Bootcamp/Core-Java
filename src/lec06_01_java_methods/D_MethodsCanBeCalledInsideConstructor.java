@@ -1,6 +1,6 @@
 package lec06_01_java_methods;
 
-public class MethodsCanBeCalledInsideConstructor {
+public class D_MethodsCanBeCalledInsideConstructor {
 	// Global variable or class variable
 	public int a = 13;
 	public int b = 2;
@@ -8,7 +8,7 @@ public class MethodsCanBeCalledInsideConstructor {
 	protected String firstName = "Alex";
 	String lastName = "Fergunson"; // Here access modifier is 'default'
 	
-	public MethodsCanBeCalledInsideConstructor() {
+	public D_MethodsCanBeCalledInsideConstructor() {
 		addition();
 		subtraction();
 		// We can can call methods inside Constructor too.

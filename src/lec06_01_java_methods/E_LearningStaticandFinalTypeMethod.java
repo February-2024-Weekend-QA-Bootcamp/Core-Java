@@ -1,6 +1,6 @@
 package lec06_01_java_methods;
 
-public class LearningStaticandFinalTypeMethod {
+public class E_LearningStaticandFinalTypeMethod {
 	// Global variable or class variable
 	public static int a = 13; // why static? please see line 14
 	public static int b = 2;
