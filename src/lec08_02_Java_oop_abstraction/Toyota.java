@@ -8,5 +8,6 @@ public class Toyota {
 	public void toyota() {
 		System.out.println("This method is from Toyota Class");
 	}
+	
 
 }

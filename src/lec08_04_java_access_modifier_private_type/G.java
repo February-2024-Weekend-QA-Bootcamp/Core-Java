@@ -23,6 +23,7 @@ public class G extends I{
 		g.g();
 		// g.iMethod();
 		// private method from other class can't be called
+		// even though a child class inherit a parent class, but child class can't inherit private properties
 
 	}
 
