@@ -1,4 +1,4 @@
-package lec10_02_Java_oop_abstraction;
+package lec11_02_Java_oop_abstraction;
 
 // A regular class
 // A regular class can inherit only one (regular class or one abstract class) by extends keyword
