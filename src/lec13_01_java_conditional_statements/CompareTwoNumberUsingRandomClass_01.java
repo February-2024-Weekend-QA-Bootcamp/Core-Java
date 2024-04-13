@@ -1,4 +1,4 @@
-package lec12_02_java_conditional_statements;
+package lec13_01_java_conditional_statements;
 
 import java.util.Random;
 
