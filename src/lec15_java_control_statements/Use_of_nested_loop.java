@@ -1,4 +1,4 @@
-package lec14_java_control_statements;
+package lec15_java_control_statements;
 
 public class Use_of_nested_loop {
 
