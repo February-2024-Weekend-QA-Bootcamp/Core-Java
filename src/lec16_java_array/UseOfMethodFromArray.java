@@ -1,4 +1,4 @@
-package lec16_01_java_array;
+package lec16_java_array;
 
 import java.util.Arrays;
 
