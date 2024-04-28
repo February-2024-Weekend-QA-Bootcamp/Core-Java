@@ -96,7 +96,7 @@ public class KnowingArray {
 		// a[4] = 56
 		// a[5-1] = 56, this line is for explanation of next line
 		// a[a.length - 1] = 56 = last index formula, you must understand and memorize
-		
+			
 		// For example
 		// a.length = 100;
 		// a[99] = a[100-1] = a[a.length-1]
