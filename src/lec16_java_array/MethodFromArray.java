@@ -2,7 +2,7 @@ package lec16_java_array;
 
 import java.util.Arrays;
 
-public class UseOfMethodFromArray {
+public class MethodFromArray {
 
 	public static void main(String[] args) {
 		int [] a = {15, 34, 59, 5, 28, 12}; 

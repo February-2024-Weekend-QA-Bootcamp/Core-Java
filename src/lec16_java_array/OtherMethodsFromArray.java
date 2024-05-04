@@ -2,7 +2,7 @@ package lec16_java_array;
 
 import java.util.Arrays;
 
-public class UseOfOtherMethodsFromArray {
+public class OtherMethodsFromArray {
 	public static void main(String[] args) {
 		int [] a = {5, 15, 50, 0, 0, 56};
 		// Array is fixed size (Array is static)
@@ -102,6 +102,17 @@ public class UseOfOtherMethodsFromArray {
 
 		// How to compare two Array? here a and d.
 		System.out.println("Is Array a and d is equal? Ans: " + Arrays.equals(a, d));
+		
+		// Another example which is String type
+		String[] ax = new String []{"First", "Second", "Third", "Fourth", "Fifth"};
+		System.out.println("The list of the array's [ax] elements: " + Arrays.toString(ax));
+		// Literal representation of an String type Array, line 111 is the best  representation of an Array
+		
+		String[] ay = {"First", "Second", "Third", "Fourth", "Fifth"};
+		System.out.println("The list of the array's [ay] elements: " + Arrays.toString(ay));
+		
+		// How to compare two Array? here a and c.
+		System.out.println("Is Array ax and ay is equal? Ans: " + Arrays.equals(ax, ay));
 		
 		// for each loop is mostly used in industry, solely for Array? yes
 		
