@@ -1,6 +1,6 @@
 package lec01_java_basic;
 
-public class MustLearnBeforeComeToNextClass {
+public class YouMustLearnBeforeComeToNextClass {
 	// This is Called Class Body
 	// What a class body contains?	
 	// First: Class body contain variables
