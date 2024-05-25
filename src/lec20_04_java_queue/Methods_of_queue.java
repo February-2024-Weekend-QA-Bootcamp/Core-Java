@@ -1,4 +1,4 @@
-package lec20_04_java_stack;
+package lec20_04_java_queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
