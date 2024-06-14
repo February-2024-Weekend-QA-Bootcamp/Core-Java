@@ -204,6 +204,11 @@ public class DifferentMethodsOfString {
 		System.out.println("\n------------------------------------------------------------------------");
 		System.out.println("Before replacing all: " + s12);
 		System.out.println("After replacing all, the complete String is: " + s12.replaceAll(s12, "Hey Hey Captain!"));
+
+
+
+
+
 		
 		// regular way of concatenation
 		System.out.println("\n------------------------------------------------------------------------");

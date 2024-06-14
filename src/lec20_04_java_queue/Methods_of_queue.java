@@ -11,6 +11,11 @@ import java.util.Queue;
  * Example: when we make queue in DMV/Bank --> FIFO(First In First Out)
  */
 
+/*
+What are the applications of queues? Job scheduling, Operating systems, message queues, 
+task processing, buffering, BFS, etc, are some of the applications of queues.
+*/
+
 public class Methods_of_queue {
 
 	public static void main(String[] args) {
