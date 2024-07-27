@@ -2,7 +2,7 @@ package lec21_java_read_and_write;
 
 /*
 An Exception is an unwanted event that interrupts the normal flow of the program 
-that happens during the run time. When an exception occurs program execution gets terminated.
+that happens during the run time. When an exception occurred, program execution gets terminated.
 In such cases, we get a system-generated error message.
 
 How can we handle exception? -- very very important interview question
